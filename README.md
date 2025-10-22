@@ -1,1 +1,1 @@
-# MLSN-Team-9-Project-2025
+This is the MLSN project in fall 2025
